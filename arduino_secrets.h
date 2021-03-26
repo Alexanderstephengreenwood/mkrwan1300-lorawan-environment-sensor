@@ -1,3 +1,3 @@
-#define SECRET_APP_EUI "F03D29AC71000001"
-#define SECRET_APP_KEY "6D5A7134743677397A24432646294A40"
-#define SECRET_DEV_EUI "A8610A3039496F05"
+#define SECRET_APP_EUI "Insert the APP EUI here"
+#define SECRET_APP_KEY "Insert the APP key here"
+#define SECRET_DEV_EUI "Inser the DEV EUI" //this is not mandatory to authenticate with the LoraWan network servers
